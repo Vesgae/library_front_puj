@@ -1,0 +1,23 @@
+[
+    {
+        "id":1000000001,
+        "name":"Edwin",
+        "lastname":"Vesga",
+        "birthday":"2002-01-08",
+        "role":"ADMIN"
+    },
+    {
+        "id":1000000002,
+        "name":"David",
+        "lastname":"Punk",
+        "birthday":"2000-01-01",
+        "role":"ADMIN"
+    },
+    {
+        "id":1000000003,
+        "name":"Faber",
+        "lastname":"Profe",
+        "birthday":"1979-01-01",
+        "role":"USER"
+    }
+]
